@@ -20,6 +20,7 @@
 <h2 align="left">About Me</h3>
 
 ###
+
 <div align="left">
 I'm a DevOps Engineer with a passion for understanding systems from the ground up. I specialize in:
 
@@ -30,6 +31,7 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
 - Homelab enthusiast - Privacy, self-hosted services and clean network design.
 <br>
 </div>
+
 ###
 
 <h2 align="left">Toolchain</h3>
@@ -66,6 +68,7 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> -->
 </div>
 
+<br>
 <br>
 
 <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif"  />
