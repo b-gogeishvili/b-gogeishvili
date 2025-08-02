@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRlY2ZkdmJwNmJ2aWVpYnQ5aXRhdXB2NHZjcmxuYmRhY2l0aGI0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+  <img height="200" src="https://tenor.com/view/hollow-knight-reading-map-pixel-art-gif-8043633549067461458"  />
 </div>
 
 ###
