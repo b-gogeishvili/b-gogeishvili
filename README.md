@@ -1,6 +1,4 @@
 <div align="center">
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif"  />
-</div>
 <!--
 <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1NWYzdGJ3bzVrcWF4am41N2l4ODF2YTdiOGVnM28zbG5kNHMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif"  />
 </div>
@@ -67,5 +65,7 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> -->
 </div>
-
+<br>
+<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif"  />
+</div>
 ###
