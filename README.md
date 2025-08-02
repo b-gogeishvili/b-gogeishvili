@@ -76,4 +76,5 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
 <div align="right">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif" />
 </div>
+
 ###
