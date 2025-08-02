@@ -24,7 +24,7 @@
 I'm a DevOps Engineer with a passion for understanding systems from the ground up. I specialize in:
 
 - Linux (Arch user, btw)
-- Kubernetes ☸
+- Kubernetes
 - Automation, CI/CD, Infrastructure as Code
 - Deep dives into system internals - network protocols, containers, computer architecture, etc.
 - Homelab enthusiast - Privacy, self-hosted services and clean network design.
