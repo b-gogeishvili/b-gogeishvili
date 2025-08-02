@@ -1,13 +1,9 @@
-<div align="center">
-<!--
-<img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1NWYzdGJ3bzVrcWF4am41N2l4ODF2YTdiOGVnM28zbG5kNHMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif"  />
-</div>
+<!-- Links
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
--->
+</div> -->
 
 ###
 
@@ -17,7 +13,7 @@
 
 ###
 
-<h2 align="left">About Me</h3>
+## About Me
 
 ###
 
@@ -34,7 +30,7 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
 
 ###
 
-<h2 align="left">Toolchain</h3>
+## Toolchain
 
 ###
 
@@ -67,9 +63,17 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> 
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif - Hanging
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif - Standing
   -->
 </div>
 
+###
+
+<!-- Gifs
+  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif - Hanging Hollow
+  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif - Standing Hollow
+  https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1NWYzdGJ3bzVrcWF4am41N2l4ODF2YTdiOGVnM28zbG5kNHMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif - Attacking Hollow
+-->
+
 <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif"  />
+
+###
