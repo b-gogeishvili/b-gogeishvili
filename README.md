@@ -21,6 +21,15 @@
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+
+I'm a DevOps Engineer with a passion for understanding systems from the ground up. I specialize in:
+
+- 🐧 Linux (Arch user, Secure Boot, LVM on LUKS, systemd-boot, TPM)
+- ☸️ Bare-metal Kubernetes (no kubeadm)
+- 🧰 Automation, CI/CD, Infrastructure as Code
+- 🔬 Deep dives into containers, namespaces, system internals
+- 🏡 Homelab enthusiast – VLANs, self-hosted services, and clean network design
 <br>
 
 ###
