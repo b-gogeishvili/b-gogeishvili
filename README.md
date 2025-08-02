@@ -74,6 +74,6 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
   https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1NWYzdGJ3bzVrcWF4am41N2l4ODF2YTdiOGVnM28zbG5kNHMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif - Attacking Hollow
 -->
 <div align="right">
-  <img height="200" src="https://media0.giphy.com/media/    v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif"/>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif" />
 </div>
 ###
