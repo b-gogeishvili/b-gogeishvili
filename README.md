@@ -62,16 +62,20 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
-<!--   <img width="12" />
+  <!--   
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> 
+  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif - Hanging
+  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif - Standing
+  -->
 </div>
 
 <br>
 <br>
 
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif"  />
+<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif"  />
 </div>
 
 ###
