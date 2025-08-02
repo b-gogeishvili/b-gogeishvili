@@ -19,7 +19,9 @@
 
 <div align="left">
 I'm a DevOps Engineer with a passion for understanding systems from the ground up. I specialize in: 
+  
   <br>
+  
 - Linux (Arch user, btw)
 - Kubernetes
 - Automation, CI/CD, Infrastructure as Code
