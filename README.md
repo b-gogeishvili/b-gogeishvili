@@ -10,16 +10,13 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=b-gogeishvili&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
+<h2 align="left">About Me</h3>
 
 ###
 
