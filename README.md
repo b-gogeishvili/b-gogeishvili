@@ -30,6 +30,9 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
 </div>
 
 ###
+
+You can view my archived projects [here](https://google.com).
+
 ###
 
 ## Toolchain
