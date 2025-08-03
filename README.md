@@ -31,8 +31,7 @@ I'm a DevOps Engineer with a passion for understanding systems from the ground u
 
 ###
 
-[Click here](SHOWCASE.md) to see the overview of some of my projects. 
-
+[Click here](SHOWCASE.md) to see the overview of some of my projects. <br>
 View archived projects in [my developer's attic](https://github.com/orgs/devattik/repositories).
 
 ###
