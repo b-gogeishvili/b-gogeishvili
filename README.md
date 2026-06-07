@@ -5,45 +5,30 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div> -->
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=b-gogeishvili&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-<!--
+<!-- About Me
 ## About Me
 
-###
-
-<div align="left">
 I work in DevOps but find myself drawn to many areas of CS and software development.
 
-I'm interested in Linux, networking internals, and open-source software — I like understanding 
-things deeply rather than just knowing enough to get by. I care a lot about privacy and 
+I'm interested in Linux, networking internals, and open-source software — I like understanding
+things deeply rather than just knowing enough to get by. I care a lot about privacy and
 tend to gravitate toward tools and systems that respect it.
 
-###
+Currently specializing in Kubernetes, cloud-native infrastructure, and building tools
+others can use.
 
-**Specialties:**
-- Linux & system internals — network protocols, containers, computer architecture
-- Kubernetes & container orchestration
-- Automation, CI/CD, Infrastructure as Code
-- Homelab - self-hosted services, privacy-focused network design
-</div>
+**Stack:** Terraform · Ansible · ArgoCD · Helm · Prometheus · Grafana
+
+[Projects overview](SHOWCASE.md) · [Archived work](https://github.com/orgs/devattik/repositories)
 -->
 
-###
-
-<!-- [Click here](SHOWCASE.md) to see the overview of some of my projects.<br> -->
 [See more](https://github.com/orgs/pepperwood-chronicles/repositories) of my projects.
 
-###
-
 ## Toolchain
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -69,23 +54,17 @@ tend to gravitate toward tools and systems that respect it.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
-  <!--   
-  <img width="12" />
+  <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   -->
 </div>
 
-###
-
 <!-- Gifs
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif - Hanging Hollow
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgzcGtxOXJxZ3NzemM3enlrbmJ3OXdyNzh1YW9mbTFxaDV2N203ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WhhQYq8YxyUeNcjLl0/giphy.gif - Standing Hollow
-  https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1NWYzdGJ3bzVrcWF4am41N2l4ODF2YTdiOGVnM28zbG5kNHMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif - Attacking Hollow
+  https://media0.giphy.com/media/... - Hanging Hollow
+  https://media0.giphy.com/media/... - Standing Hollow
+  https://media1.giphy.com/media/... - Attacking Hollow
 -->
 <div align="right">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU4aTlkNWU2cWZsNWVvYnI1MjVpdjNzMW44MTl0NmJ2Z2g3NXV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xfpmHHFgmtrO7t29F/giphy.gif" />
 </div>
-
-###
