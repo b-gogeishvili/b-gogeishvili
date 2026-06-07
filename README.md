@@ -12,27 +12,32 @@
 </div>
 
 ###
-
+<!--
 ## About Me
 
 ###
 
 <div align="left">
-I'm a DevOps Engineer with a passion for understanding systems from the ground up. I specialize in: 
+I work in DevOps but find myself drawn to many areas of CS and software development.
+
+I'm interested in Linux, networking internals, and open-source software — I like understanding 
+things deeply rather than just knowing enough to get by. I care a lot about privacy and 
+tend to gravitate toward tools and systems that respect it.
 
 ###
 
-- Linux (Arch user, btw)
-- Kubernetes
+**Specialties:**
+- Linux & system internals — network protocols, containers, computer architecture
+- Kubernetes & container orchestration
 - Automation, CI/CD, Infrastructure as Code
-- Deep dives into system internals - network protocols, containers, computer architecture, etc.
-- Homelab enthusiast - Privacy, self-hosted services and clean network design.
+- Homelab - self-hosted services, privacy-focused network design
 </div>
+-->
 
 ###
 
-[Click here](SHOWCASE.md) to see the overview of some of my projects. <br>
-View archived projects in [my developer's attic](https://github.com/orgs/devattik/repositories).
+<!-- [Click here](SHOWCASE.md) to see the overview of some of my projects.<br> -->
+[See more](https://github.com/orgs/pepperwood-chronicles/repositories) of my projects.
 
 ###
 
