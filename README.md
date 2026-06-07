@@ -24,9 +24,9 @@ others can use.
 **Stack:** Terraform · Ansible · ArgoCD · Helm · Prometheus · Grafana
 
 [Projects overview](SHOWCASE.md) · [Archived work](https://github.com/orgs/devattik/repositories)
--->
 
 [See more](https://github.com/orgs/pepperwood-chronicles/repositories) of my projects.
+-->
 
 ## Toolchain
 
