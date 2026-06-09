@@ -21,8 +21,6 @@ tend to gravitate toward tools and systems that respect it.
 Currently specializing in Kubernetes, cloud-native infrastructure, and building tools
 others can use.
 
-**Stack:** Terraform · Ansible · ArgoCD · Helm · Prometheus · Grafana
-
 [Projects overview](SHOWCASE.md) · [Archived work](https://github.com/orgs/devattik/repositories)
 
 [See more](https://github.com/orgs/pepperwood-chronicles/repositories) of my projects.
